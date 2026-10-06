@@ -34,7 +34,7 @@ La secuencia es fundamentos, POO y estructuras de datos. Dentro de cada unidad s
 | Calidad | Casos normales, fronteras e inválidos; comprobaciones del proyecto |
 | Interfaz | Consola en la ruta principal para observar algoritmo y estado |
 
-La organización temática guía la cobertura; el curso no reproduce las explicaciones, capturas ni actividades del material de referencia. Los ejemplos muestran decisiones y límites para que puedas elaborar después diapositivas y guiones propios.
+El mapa organiza el recorrido de estudio. En cada ejemplo encontrarás las decisiones del algoritmo, sus resultados esperados y los límites de la solución.
 
 ## Resultado de cada unidad
 

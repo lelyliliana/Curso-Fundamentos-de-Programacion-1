@@ -113,6 +113,6 @@ Los records no son iguales porque un componente cambió. El código sigue siendo
 
 ## Evidencia de aprendizaje
 
-Conserva el código que modificaste, una tabla de casos y una explicación de la regla aplicada. Debes poder justificar el resultado y reconocer los límites del ejemplo. Si utilizaste asistencia de IA, registra qué pediste, qué aceptaste y cómo verificaste el resultado.
+Conserva el código que modificaste, una tabla de casos y una explicación de la regla aplicada. Debes poder justificar el resultado y reconocer los límites del ejemplo.
 
 [Anterior](../../unidad3/04-listas/README.md) · [Índice de la unidad](../README.md) · [Inicio del curso](../../README.md) · [Siguiente recurso](../../unidad3/06-mapas/README.md)

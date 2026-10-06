@@ -30,7 +30,7 @@ Para comprobar directamente el umbral del método de descuento, prueba subtotale
 
 ## Entrega y criterios
 
-Conserva un README con el problema, instrucciones, tabla de casos y resultados. Añade el código y una explicación breve de una decisión. Si usas video, muestra una ejecución válida y una inválida en 3 a 5 minutos. Comparte enlaces y declara cualquier asistencia de IA con su verificación.
+Conserva un README con el problema, instrucciones, tabla de casos y resultados. Añade el código y una explicación breve de una decisión. Si usas video, muestra una ejecución válida y una inválida en 3 a 5 minutos. Comparte enlaces.
 
 | Criterio | Peso | Evidencia de logro |
 |---|---|---|

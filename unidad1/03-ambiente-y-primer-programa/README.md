@@ -16,10 +16,10 @@ Prepararemos un ambiente reproducible. El curso tiene como base Java 21 y usa ca
 
 El JDK contiene herramientas de desarrollo como `javac` y el ejecutor `java`. La JVM ejecuta bytecode; el archivo fuente `.java` se convierte en `.class` al compilar. Instalar únicamente un entorno de ejecución puede dejarte sin compilador. Usa un JDK para la arquitectura de tu equipo.
 
-1. Instala un JDK 21 desde un proveedor oficial (consulta [Eclipse Temurin](https://adoptium.net/temurin/releases/?version=21)). En Ubuntu, una opción es `sudo apt install openjdk-21-jdk` después de actualizar el índice de paquetes con `sudo apt update`.
-2. Abre una terminal nueva y ejecuta `java -version`.
-3. Ejecuta `javac -version`. Ambas herramientas deben indicar la misma versión principal, 21.
-4. Si un comando no existe, verifica instalación y `PATH`. `JAVA_HOME`, cuando una herramienta lo requiere, apunta a la carpeta del JDK, no a su subcarpeta `bin`. No agregues `src.zip` a `CLASSPATH`.
+1. Sigue la [preparación del ambiente](../../docs/ambiente-y-herramientas.md) para tu sistema: Windows, Ubuntu o macOS. Instala un **JDK 21**, no solamente un entorno de ejecución.
+2. Abre PowerShell en Windows o Terminal en Ubuntu/macOS. Ejecuta `java -version`.
+3. Ejecuta `javac -version`. Ambas herramientas deben indicar la versión principal 21.
+4. Si un comando no existe, revisa instalación y `PATH` siguiendo la guía de tu sistema.
 5. Guarda el siguiente código como `Main.java` y ejecútalo desde su carpeta.
 
 La primera ejecución de este curso usa `java Main.java`, que compila el archivo fuente en memoria y lo ejecuta. Para separar etapas, usa `javac -encoding UTF-8 -d out Main.java` y después `java -cp out Main`. Crea previamente `out` con `mkdir out` si fuera necesario. En Windows puedes usar PowerShell para los mismos comandos de Java. No escribas el símbolo del prompt como parte del comando.
@@ -94,6 +94,6 @@ La tercera salida coincide con el texto que agregaste. La omisión del punto y c
 
 ## Evidencia de aprendizaje
 
-Conserva el código que modificaste, una tabla de casos y una explicación de la regla aplicada. Debes poder justificar el resultado y reconocer los límites del ejemplo. Si utilizaste asistencia de IA, registra qué pediste, qué aceptaste y cómo verificaste el resultado.
+Conserva el código que modificaste, una tabla de casos y una explicación de la regla aplicada. Debes poder justificar el resultado y reconocer los límites del ejemplo.
 
 [Anterior](../../unidad1/02-paradigmas/README.md) · [Índice de la unidad](../README.md) · [Inicio del curso](../../README.md) · [Siguiente recurso](../../unidad1/04-control-de-versiones/README.md)

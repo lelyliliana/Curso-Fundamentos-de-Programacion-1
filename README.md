@@ -2,7 +2,7 @@
 
 Curso abierto de **Leli Liliana Díaz Izquierdo** para aprender a resolver problemas con **Java**, construir modelos orientados a objetos y gestionar datos en memoria y archivos.
 
-La ruta comienza con el análisis del problema y avanza hasta una aplicación de consola con registro de participantes, control de cupos y persistencia. Las explicaciones y los ejemplos son originales y están organizados para estudiar de manera autónoma o preparar clases y tutorías.
+La ruta comienza con el análisis del problema y avanza hasta una aplicación de consola con registro de participantes, control de cupos y persistencia. Las explicaciones y los ejemplos están organizados para estudiar de manera autónoma y practicar cada concepto con programas ejecutables.
 
 ## Empieza aquí
 
@@ -32,7 +32,7 @@ El orden temático se conserva; las herramientas, explicaciones y prácticas se 
 
 ## Requisitos y decisiones técnicas
 
-La base del curso es **JDK 21**, con características estables y sin funciones experimentales. Java 21 es la versión elegida para mantener una ruta reproducible; no se presenta como la versión más reciente. Necesitas un editor y una terminal. Git se incorpora en la unidad 1; Python 3 solo es necesario para la verificación global opcional.
+Puedes realizar el curso en **Windows, Ubuntu o macOS**. La base es **JDK 21**, con características estables y sin funciones experimentales. Java 21 es la versión elegida para mantener una ruta reproducible; no se presenta como la versión más reciente. Necesitas un editor y una terminal. Git se incorpora en la unidad 1; Python 3 solo es necesario para la verificación global opcional.
 
 Los ejemplos principales son de consola y no requieren frameworks, Maven, bases de datos ni servicios externos. Así cada resultado puede relacionarse con las instrucciones que lo producen. Los archivos generados quedan en carpetas `salida/` excluidas del control de versiones.
 
@@ -54,19 +54,21 @@ La primera salida será atraso 3 y multa 3000. Cada README indica su carpeta, en
 
 ## Verificar todo el curso
 
-Desde la raíz, con JDK y Python 3 instalados:
+Esta comprobación es opcional. Desde la raíz, con JDK y Python 3 instalados, usa el comando correspondiente:
 
-```bash
-python3 scripts/verificar.py
-```
+| Sistema | Comando |
+|---|---|
+| Windows (PowerShell) | `py -3 scripts/verificar.py` |
+| Ubuntu (Terminal) | `python3 scripts/verificar.py` |
+| macOS (Terminal) | `python3 scripts/verificar.py` |
 
-En Windows, si tu instalación ofrece el lanzador `py`, usa `py -3 scripts/verificar.py`. El script ejecuta cada ejemplo en una carpeta temporal, compara su salida y verifica las reglas del proyecto y los enlaces internos. Los archivos de la demostración no se mezclan con tus datos. El flujo de GitHub Actions repite la verificación con JDK 21.
+Si Windows no ofrece el lanzador `py`, usa `python scripts/verificar.py` y verifica que sea Python 3. El script ejecuta cada ejemplo en una carpeta temporal, compara su salida y verifica las reglas del proyecto y los enlaces internos. Los archivos de la demostración no se mezclan con tus datos. El flujo de GitHub Actions repite la verificación con JDK 21 en Windows, Ubuntu y macOS.
 
-## Material para planear clases
+## Recursos de estudio
 
-[Mapa de temas y resultados](docs/mapa-del-curso.md) · [Orientaciones para preparar tutorías](docs/preparacion-de-tutorias.md) · [Fuentes oficiales](docs/fuentes.md) · [Cierre y continuidad](docs/cierre-y-continuidad.md)
+[Mapa de temas y resultados](docs/mapa-del-curso.md) · [Fuentes oficiales](docs/fuentes.md) · [Cierre y continuidad](docs/cierre-y-continuidad.md)
 
-El mapa permite localizar la explicación y el ejemplo que necesitas para elaborar tus diapositivas y guiones. La guía de tutorías propone preguntas y demostraciones; las diapositivas y los guiones completos se preparan por separado.
+Consulta el mapa para localizar los temas, sus explicaciones y ejemplos. Completa los talleres de cada unidad para comprobar tu comprensión.
 
 ## Autora
 

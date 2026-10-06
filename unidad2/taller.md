@@ -30,7 +30,7 @@ Un servicio debe coordinar préstamo y notificación. La notificación se recibe
 
 ## Entrega y criterios
 
-Presenta fuentes, README, tabla de casos y explicación de responsabilidades. El diagrama o la tabla de relaciones debe justificar «es un» y «tiene un». Un video opcional de 3 a 5 minutos puede mostrar la sustitución del canal sin cambiar el servicio. En equipos de hasta tres personas, identifica contribuciones en el historial. Declara apoyo de IA y verificación.
+Presenta fuentes, README, tabla de casos y explicación de responsabilidades. El diagrama o la tabla de relaciones debe justificar «es un» y «tiene un». Un video opcional de 3 a 5 minutos puede mostrar la sustitución del canal sin cambiar el servicio. En equipos de hasta tres personas, identifica contribuciones en el historial.
 
 | Criterio | Peso | Evidencia de logro |
 |---|---|---|

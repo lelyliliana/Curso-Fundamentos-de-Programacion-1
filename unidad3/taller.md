@@ -32,7 +32,7 @@ Para esta práctica, el préstamo registra una reducción del inventario pero no
 
 ## Entrega y criterios
 
-Entrega un repositorio con fuentes, README, muestra válida del formato y tabla de pruebas. No incluyas datos personales reales. Explica elección de estructuras, identidad y política ante archivo inválido. Un video opcional de 3 a 5 minutos debe mostrar una recuperación después de reiniciar el programa. Declara cualquier asistencia de IA y cómo la comprobaste.
+Entrega un repositorio con fuentes, README, muestra válida del formato y tabla de pruebas. No incluyas datos personales reales. Explica elección de estructuras, identidad y política ante archivo inválido. Un video opcional de 3 a 5 minutos debe mostrar una recuperación después de reiniciar el programa.
 
 | Criterio | Peso | Evidencia de logro |
 |---|---|---|

@@ -113,6 +113,6 @@ Un nombre con espacios queda limpio por `strip()`. Con 4 cupos, el total es 6000
 
 ## Evidencia de aprendizaje
 
-Conserva el código que modificaste, una tabla de casos y una explicación de la regla aplicada. Debes poder justificar el resultado y reconocer los límites del ejemplo. Si utilizaste asistencia de IA, registra qué pediste, qué aceptaste y cómo verificaste el resultado.
+Conserva el código que modificaste, una tabla de casos y una explicación de la regla aplicada. Debes poder justificar el resultado y reconocer los límites del ejemplo.
 
 [Anterior](../../unidad1/06-operadores-y-conversiones/README.md) · [Índice de la unidad](../README.md) · [Inicio del curso](../../README.md) · [Siguiente recurso](../../unidad1/08-condicionales/README.md)

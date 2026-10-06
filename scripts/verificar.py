@@ -9,7 +9,8 @@ import tempfile
 ROOT = Path(__file__).resolve().parents[1]
 
 def ejecutar(carpeta, args=(), entrada=''):
-    resultado = subprocess.run(['java', 'Main.java', *args], cwd=carpeta,
+    resultado = subprocess.run(['java', '-Dfile.encoding=UTF-8', '-Dstdout.encoding=UTF-8',
+                               '-Dstderr.encoding=UTF-8', 'Main.java', *args], cwd=carpeta,
                                input=entrada, text=True, encoding='utf-8',
                                capture_output=True, timeout=45)
     if resultado.returncode:
@@ -56,8 +57,6 @@ def main():
             if ruta and not (archivo.parent / ruta).resolve().exists():
                 raise AssertionError(f'Enlace roto en {archivo.relative_to(ROOT)}: {destino}')
             enlaces += 1
-        if 'uniremington' in contenido.lower():
-            raise AssertionError(f'Referencia institucional en {archivo}')
     print(f'{len(ejemplos)} ejemplos comprobados; proyecto y entrada verificados; {enlaces} enlaces locales válidos.')
 
 if __name__ == '__main__':

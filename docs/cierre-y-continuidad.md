@@ -8,7 +8,7 @@ Has recorrido análisis de problemas, ambiente de trabajo, control de versiones,
 
 Resuelve una variante del registro de taller: otro dominio, nuevos campos y una operación de búsqueda o cancelación. Describe entradas y reglas, escoge una estructura por sus operaciones y define su identidad. Implementa una regla de rechazo, un caso de frontera y recuperación desde archivo. Explica qué datos quedan en memoria y cuáles persisten.
 
-Tu repositorio debe incluir instrucciones ejecutables, fuentes, tabla de casos, resultados y límites. Si trabajaste en equipo, identifica contribuciones; si utilizaste IA, registra el apoyo y la verificación. Otra persona debe poder reproducir la solución sin depender de tu equipo.
+Tu repositorio debe incluir instrucciones ejecutables, fuentes, tabla de casos, resultados y límites. Si trabajaste en equipo, identifica contribuciones. Otra persona debe poder reproducir la solución sin depender de tu equipo.
 
 ## Preguntas de síntesis
 

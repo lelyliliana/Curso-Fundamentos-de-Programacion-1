@@ -107,6 +107,6 @@ La media es 30.0 y la máxima 33.0. Para calcular máxima, tras comprobar que no
 
 ## Evidencia de aprendizaje
 
-Conserva el código que modificaste, una tabla de casos y una explicación de la regla aplicada. Debes poder justificar el resultado y reconocer los límites del ejemplo. Si utilizaste asistencia de IA, registra qué pediste, qué aceptaste y cómo verificaste el resultado.
+Conserva el código que modificaste, una tabla de casos y una explicación de la regla aplicada. Debes poder justificar el resultado y reconocer los límites del ejemplo.
 
 [Anterior](../../unidad1/10b-recursion/README.md) · [Índice de la unidad](../README.md) · [Inicio del curso](../../README.md) · [Siguiente recurso](../../unidad1/12-pruebas-y-depuracion/README.md)

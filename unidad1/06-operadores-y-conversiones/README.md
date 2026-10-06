@@ -105,6 +105,6 @@ La media decimal es 4.25 y la división entera produce 4. Las expresiones produc
 
 ## Evidencia de aprendizaje
 
-Conserva el código que modificaste, una tabla de casos y una explicación de la regla aplicada. Debes poder justificar el resultado y reconocer los límites del ejemplo. Si utilizaste asistencia de IA, registra qué pediste, qué aceptaste y cómo verificaste el resultado.
+Conserva el código que modificaste, una tabla de casos y una explicación de la regla aplicada. Debes poder justificar el resultado y reconocer los límites del ejemplo.
 
 [Anterior](../../unidad1/05-estructura-tipos-y-variables/README.md) · [Índice de la unidad](../README.md) · [Inicio del curso](../../README.md) · [Siguiente recurso](../../unidad1/07-entrada-y-salida/README.md)
