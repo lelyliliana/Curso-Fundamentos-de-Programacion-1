@@ -1,0 +1,4 @@
+Records iguales: true
+Primera alta: true
+Duplicado: false
+Códigos: [P01, P02]

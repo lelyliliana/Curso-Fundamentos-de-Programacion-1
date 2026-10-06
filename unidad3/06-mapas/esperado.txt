@@ -1,0 +1,4 @@
+Duplicado detectado: true
+P01: Ana
+P99 existe: false
+Conteo: {Robótica=2, Dibujo=1}

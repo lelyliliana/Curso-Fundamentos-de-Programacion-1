@@ -1,0 +1,4 @@
+Nombre:
+Cantidad de cupos (entero positivo):
+Hola, Ana
+Total en pesos: 30000

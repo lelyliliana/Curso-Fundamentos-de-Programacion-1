@@ -1,0 +1,2 @@
+Cantidad: 2
+Promedio: 15.0

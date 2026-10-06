@@ -1,0 +1,3 @@
+Taller: Introducción a robótica
+Total: 45000
+Inscripción abierta: true

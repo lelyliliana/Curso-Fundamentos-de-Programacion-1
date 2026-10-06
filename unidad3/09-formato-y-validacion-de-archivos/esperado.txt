@@ -1,0 +1,4 @@
+Línea 3: datos inválidos
+Línea 4: datos inválidos
+Válidos: 1
+Robótica

@@ -1,0 +1,4 @@
+P01: Ana
+P02: Luis
+Disponibles: 1
+Estado recuperado desde archivo

@@ -1,0 +1,2 @@
+Nombre: Ana
+Cupos: 3

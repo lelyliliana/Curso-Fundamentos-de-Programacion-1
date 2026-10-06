@@ -1,0 +1,134 @@
+[
+  {
+    "folder": "unidad1/01-comprender-el-problema",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/02-paradigmas",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/03-ambiente-y-primer-programa",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/04-control-de-versiones",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/05-estructura-tipos-y-variables",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/06-operadores-y-conversiones",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/07-entrada-y-salida",
+    "stdin": "Ana\n2\n"
+  },
+  {
+    "folder": "unidad1/08-condicionales",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/09-ciclos",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/10-metodos",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/10b-recursion",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/11-arreglos-y-cadenas",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/12-pruebas-y-depuracion",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/01-clases-y-objetos",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/02-encapsulacion",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/03-composicion",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/04-herencia-y-polimorfismo",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/05-clases-abstractas",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/06-interfaces",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/07-excepciones",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/08-modelo-integrado",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/01-tipos-abstractos-de-datos",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/01b-matrices",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/02-pilas-y-colas",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/03-genericos",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/04-listas",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/05-conjuntos-e-igualdad",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/06-mapas",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/07-recorrido-filtrado-y-orden",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/08-archivos-de-texto",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/09-formato-y-validacion-de-archivos",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/10-archivos-binarios",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/11-proyecto-integrador",
+    "stdin": ""
+  }
+]

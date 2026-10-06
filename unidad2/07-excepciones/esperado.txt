@@ -1,0 +1,3 @@
+Formato inválido: dos
+Rango inválido: Debe estar entre 1 y 30
+Aceptado: 3

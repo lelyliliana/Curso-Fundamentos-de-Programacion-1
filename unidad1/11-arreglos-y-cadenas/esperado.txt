@@ -1,0 +1,3 @@
+Primera: 28.0
+Media: 29.0
+Confirmado: true

@@ -1,0 +1,6 @@
+División entera: 3
+Media decimal: 3.3333333333333335
+Residuo: 1
+Agrupación: 20
+Aproximado: 0.30000000000000004
+Decimal exacto: 0.3

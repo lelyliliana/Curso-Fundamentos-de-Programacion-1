@@ -1,0 +1,3 @@
+Inscripción: true
+Robótica: 1
+Dibujo: 3

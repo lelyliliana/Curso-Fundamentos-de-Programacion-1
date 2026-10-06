@@ -1,0 +1,3 @@
+Imperativo: 30
+Objetos: 30
+Funcional: 30

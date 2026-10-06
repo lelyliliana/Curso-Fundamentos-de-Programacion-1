@@ -1,0 +1,3 @@
+Recursivo: 24
+Iterativo: 24
+Caso base: 1

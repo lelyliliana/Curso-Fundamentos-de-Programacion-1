@@ -1,0 +1,2 @@
+Atraso: 3
+Multa: 3000

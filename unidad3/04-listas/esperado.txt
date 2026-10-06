@@ -1,0 +1,4 @@
+Participantes: [Luisa, Marta]
+Primero: Luisa
+Cantidad: 2
+Copia: [Luisa, Marta]

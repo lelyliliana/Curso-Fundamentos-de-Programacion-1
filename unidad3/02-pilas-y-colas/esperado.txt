@@ -1,0 +1,5 @@
+Deshacer: Cambiar color
+Pendiente: Escribir título
+Atender: Ana
+Atender: Luis
+Vacía: null
